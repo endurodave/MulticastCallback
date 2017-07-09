@@ -1,7 +1,7 @@
 # Type-Safe Multicast Callbacks in C
 A type-safe multicast callback library used for anonymous function invocation implemented in C.
 
-Originally published on CodeProject at: <a href="http://www.codeproject.com/Articles/1169105/Cplusplus-std-thread-Event-Loop-with-Message-Queue"><strong>Type-Safe Multicast Callbacks in C</strong></a>
+Originally published on CodeProject at: <a href="http://www.codeproject.com/Articles/1191232/Type-Safe-Multicast-Callbacks-in-C"><strong>Type-Safe Multicast Callbacks in C</strong></a>
 
 <h2>Introduction</h2>
 
